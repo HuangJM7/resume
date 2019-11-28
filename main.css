@@ -70,6 +70,8 @@
      border-radius: 50%;
      position: relative;
      top: -120px;
+     object-fit: contain;
+     background-color:rgb(66, 142, 218) ;
  }
 
 
